@@ -43,7 +43,7 @@ $$
 * Oscilações amortecidas ao longo do tempo
 * Sistema converge para o equilíbrio
 
-📌 Observação: conforme mostrado nos gráficos (*páginas 2 e 3 do relatório*), o aumento da massa reduz a amplitude e aumenta o período, enquanto maior amortecimento reduz as oscilações. 
+📌 Observação: conforme mostrado nos gráficos, o aumento da massa reduz a amplitude e aumenta o período, enquanto maior amortecimento reduz as oscilações. 
 
 ---
 
@@ -64,7 +64,7 @@ $$
 * Oscilações iniciais com estabilização ao longo do tempo
 * Dependência forte das condições iniciais
 
-📌 Conforme observado nos gráficos (*páginas 6 e 7*), as populações tendem ao equilíbrio após oscilações iniciais. 
+📌 Conforme observado nos gráficos, as populações tendem ao equilíbrio após oscilações iniciais. 
 
 ---
 
@@ -76,7 +76,7 @@ Sistema oscilatório com dissipação de energia:
 * Oscilações decrescentes
 * Convergência ao equilíbrio
 
-📊 O diagrama de fase (*página 12*) mostra uma espiral convergente típica de sistemas amortecidos.
+📊 O diagrama de fase mostra uma espiral convergente típica de sistemas amortecidos.
 
 ---
 
